@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<tittle><h1>EL-MAYOR-ES:</h1></tittle>
+		<tittle><h1>EL-NUMERO-MAYOR-ES:</h1></tittle>
 	</head>
 	<body>
 	<script>
@@ -49,6 +49,9 @@
 		{
 		document.write(n4);
 		}
+		if(n4>=n3)
+		{
+		document.write(n4);
 
 	
 	}
