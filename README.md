@@ -2,7 +2,7 @@
 	<head>
 	</head>
 	<body>
-	<script language="javascript">
+	<script>
 
 	var n1=prompt("ingrese nu1","");
 	var n2=prompt("ingrese nu2","");
