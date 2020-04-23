@@ -48,7 +48,6 @@
 		if(n4>=n2)
 		{
 		document.write(n4);
-		}
 		if(n4>=n3)
 		{
 		document.write(n4);
