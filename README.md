@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<tittle><h1>EL-MAYOR-ES:<h1></tittle>
+		<tittle><h1>EL-MAYOR-ES:</h1></tittle>
 	</head>
 	<body>
 	<script>
